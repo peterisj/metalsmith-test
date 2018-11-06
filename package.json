@@ -1,0 +1,14 @@
+{
+  "name": "metalsmith-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple page generator",
+  "author": "Peteris Jurcenko",
+  "dependencies": {
+    "jstransformer-handlebars": "^1.1.0",
+    "metalsmith": "^2.3.0",
+    "metalsmith-discover-partials": "^0.1.2",
+    "metalsmith-layouts": "^2.2.0",
+    "metalsmith-in-place": "^4.2.0"
+  }
+}
